@@ -4,7 +4,7 @@ classDiagram
 
 class Sistema{
 
-   - vector<Atraccion *> atracciones
+   - vector < Atraccion *> atracciones
 
    
     
